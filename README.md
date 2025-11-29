@@ -1,5 +1,7 @@
 # MindLock – Encrypted Cognitive Memory for AI Companions
 
+**🔴 LIVE DEMO:** [https://mindlock.onrender.com/](https://mindlock.onrender.com/)
+
 ## 🏆 CyborgDB Hackathon 2025
 
 **Challenge:** [CyborgDB Hackathon 2025](https://www.hackerearth.com/challenges/hackathon/cyborg/)  
@@ -104,42 +106,6 @@ npm install
     npm run dev
     ```
 4.  Open your browser and visit `http://localhost:3000`.
-
-### 4. Build for Production (Optional)
-
-To create an optimized production build:
-
-```bash
-npm run build
-npm start
-```
-
----
-
-## � Deployment (Vercel)
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-### Step 1: Push to GitHub
-
-Make sure your project is pushed to a GitHub repository.
-
-```bash
-git add .
-git commit -m "Ready for deployment"
-git push origin main
-```
-
-### Step 2: Deploy on Vercel
-
-1.  Go to [Vercel.com](https://vercel.com) and sign up/login.
-2.  Click **"Add New..."** -> **"Project"**.
-3.  Import your **MindLock** repository from GitHub.
-4.  Vercel will automatically detect that it's a **Next.js** project.
-5.  Click **Deploy**.
-
-Your app will be live in a few minutes! 🌐
-
 ---
 
 ## �📄 License
