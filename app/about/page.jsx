@@ -121,7 +121,7 @@ export default function AboutPage() {
             <h2 className="text-4xl md:text-5xl font-bold">The Architects</h2>
           </div>
           
-          <div className="grid md:grid-cols-3 gap-8">
+          <div className="flex flex-wrap justify-center gap-8">
             {TEAM.map((member, i) => (
               <motion.div
                 key={i}
@@ -129,7 +129,7 @@ export default function AboutPage() {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ delay: i * 0.1 }}
-                className="group relative"
+                className="group relative w-full md:w-1/3 max-w-md"
               >
                 <PerspectiveTilt className="glass-panel-ultra p-1 rounded-2xl h-full relative overflow-hidden transition-all duration-500 group-hover:border-[#00F0FF]/50">
                   <div className="absolute inset-0 bg-[#00F0FF]/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
