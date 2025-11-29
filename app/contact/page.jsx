@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Mail, MapPin, MessageSquare, Check, Loader2, Terminal, ShieldCheck } from "lucide-react";
+import { Mail, MapPin, MessageSquare, Check, Loader2, Terminal, ShieldCheck, ArrowRight } from "lucide-react";
 import PerspectiveTilt from "@/components/PerspectiveTilt";
 
 export default function ContactPage() {

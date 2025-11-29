@@ -116,6 +116,32 @@ npm start
 
 ---
 
-## 📄 License
+## � Deployment (Vercel)
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+### Step 1: Push to GitHub
+
+Make sure your project is pushed to a GitHub repository.
+
+```bash
+git add .
+git commit -m "Ready for deployment"
+git push origin main
+```
+
+### Step 2: Deploy on Vercel
+
+1.  Go to [Vercel.com](https://vercel.com) and sign up/login.
+2.  Click **"Add New..."** -> **"Project"**.
+3.  Import your **MindLock** repository from GitHub.
+4.  Vercel will automatically detect that it's a **Next.js** project.
+5.  Click **Deploy**.
+
+Your app will be live in a few minutes! 🌐
+
+---
+
+## �📄 License
 
 [MIT License](LICENSE)
