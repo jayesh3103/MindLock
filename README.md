@@ -61,7 +61,7 @@ This project is built with **Next.js**. Follow the steps below to set it up on y
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jayesh3103/MindLock.git
 cd MindLock
 ```
 
