@@ -8,9 +8,7 @@ import ScrambleText from "@/components/ScrambleText";
 import CyberGlitchText from "@/components/CyberGlitchText";
 
 const TEAM = [
-  { name: "Dr. Aris Thorne", role: "Chief Cryptographer", id: "ARCHITECT_01", bio: "Former NSA. Architect of the Zero-Knowledge Core." },
-  { name: "Elena Vox", role: "Lead Neuro-Engineer", id: "ARCHITECT_02", bio: "Pioneer in affective computing and emotional AI alignment." },
-  { name: "Kaelen Moss", role: "Security Director", id: "ARCHITECT_03", bio: "White-hat hacker. Breached 14 'secure' AI systems before building ours." },
+  { name: "Jayesh Muley", role: "Full Stack Developer & AI Engineer", id: "ARCHITECT_01", bio: "Student from Vellore Institute of Technology. Building the future of secure, emotional AI." },
 ];
 
 export default function AboutPage() {
