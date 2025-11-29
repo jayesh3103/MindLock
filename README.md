@@ -1,6 +1,6 @@
 # MindLock – Encrypted Cognitive Memory for AI Companions
 
-**🔴 LIVE DEMO:** [https://mindlock.onrender.com/](https://mindlock.onrender.com/)
+**🔴 LIVE DEMO:** [https://mindlock.onrender.com](https://mindlock.onrender.com)
 
 ## 🏆 CyborgDB Hackathon 2025
 
